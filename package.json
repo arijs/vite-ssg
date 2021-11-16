@@ -1,7 +1,7 @@
 {
-  "name": "vite-ssg",
+  "name": "@arijs/vite-ssg",
   "description": "Server-side generation for Vite",
-  "version": "0.15.6",
+  "version": "0.15.6-ari",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -17,17 +17,17 @@
     }
   },
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "funding": "https://github.com/sponsors/rhengles",
+  "author": "Rafael Hengles <rhengles@gmail.com>",
   "engines": {
     "node": ">=14.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vite-ssg"
+    "url": "https://github.com/arijs/vite-ssg"
   },
-  "homepage": "https://github.com/antfu/vite-ssg",
-  "bugs": "https://github.com/antfu/vite-ssg/issues",
+  "homepage": "https://github.com/arijs/vite-ssg",
+  "bugs": "https://github.com/arijs/vite-ssg/issues",
   "files": [
     "dist",
     "bin",
