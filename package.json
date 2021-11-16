@@ -1,5 +1,8 @@
 {
   "name": "@arijs/vite-ssg",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Server-side generation for Vite",
   "version": "0.15.6-ari.1",
   "main": "dist/index.js",
